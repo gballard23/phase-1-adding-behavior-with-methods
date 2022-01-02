@@ -1,0 +1,144 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 7,
+    "passes": 7,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-01-02T23:50:16.909Z",
+    "end": "2022-01-02T23:50:18.556Z",
+    "duration": 1647
+  },
+  "tests": [
+    {
+      "title": "has a class of cat",
+      "fullTitle": "cat has a class of cat",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "cat.speak() returns '[name]' says meow!",
+      "fullTitle": "cat cat.speak() returns '[name]' says meow!",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a class of dog",
+      "fullTitle": "dog has a class of dog",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "dog.speak() returns '[name] says woof!'",
+      "fullTitle": "dog dog.speak() returns '[name] says woof!'",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a class of Bird",
+      "fullTitle": "bird has a class of Bird",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "bird.speak() returns 'It's me! [name], the parrot!'",
+      "fullTitle": "bird bird.speak() returns 'It's me! [name], the parrot!'",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "bird2.speak() returns 'Squawk!'",
+      "fullTitle": "bird bird2.speak() returns 'Squawk!'",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has a class of cat",
+      "fullTitle": "cat has a class of cat",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "cat.speak() returns '[name]' says meow!",
+      "fullTitle": "cat cat.speak() returns '[name]' says meow!",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a class of dog",
+      "fullTitle": "dog has a class of dog",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "dog.speak() returns '[name] says woof!'",
+      "fullTitle": "dog dog.speak() returns '[name] says woof!'",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a class of Bird",
+      "fullTitle": "bird has a class of Bird",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "bird.speak() returns 'It's me! [name], the parrot!'",
+      "fullTitle": "bird bird.speak() returns 'It's me! [name], the parrot!'",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "bird2.speak() returns 'Squawk!'",
+      "fullTitle": "bird bird2.speak() returns 'Squawk!'",
+      "file": "/Users/yungdarkseid/Code/phase-1-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
